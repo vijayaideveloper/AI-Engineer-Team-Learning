@@ -1,0 +1,1 @@
+1. Create two variables 'a' and 'b' and store valuse add them
